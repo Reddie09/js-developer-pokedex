@@ -5,5 +5,12 @@ class Pokemon {
     mainType;
     types = [];
     photo;
-    shinyphoto;
+    shiny;
+    abilities = [];
+    hp;
+    atk;
+    def;
+    spA;
+    spD;
+    ms;
 }
